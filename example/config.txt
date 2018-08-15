@@ -1,0 +1,2 @@
+Prefix plugins/CSV2EDA/example/
+Plugin CSV2EDA inputfile corrP.never.csv outputfile corrP.never.eda
