@@ -2,7 +2,7 @@
 # Language: Python
 # Input: CSV (file to convert)
 # Output: EDA (converted file)
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.0, Python 3.6
 
 PluMA plugin to convert a network represented in Comma-Separated Value (CSV) format
 to an EDge Attribute (EDA) file that is importable into Cytoscape.

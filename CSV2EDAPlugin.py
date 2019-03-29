@@ -16,7 +16,7 @@ class CSV2EDAPlugin:
       i = 0
       for line in filestuff:
          contents = line.split(',')
-	 self.ADJ.append([])
+         self.ADJ.append([])
          for j in range(self.n):
             value = float(contents[j+1])
             if (i != j and value != 0):
